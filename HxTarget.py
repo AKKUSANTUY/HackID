@@ -121,7 +121,7 @@ def menu():
         menu()
     waktu(7)
     sis('clear')
-    sys.exit('HACK berhasil Password di simpan di file txt')
+    sys.exit('ID Dan Password Akan Di Kirimkan Ke FB kamu TRIMAKASIH')
     
 
 
