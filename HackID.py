@@ -64,8 +64,6 @@ except KeyboardInterrupt:
 
 	os.system('clear')
 
-#_*_coding:UTF-8_*_
-
 from os import system as sis
 from time import sleep as waktu
 import sys
