@@ -10,6 +10,6 @@ $ git clone https://github.com/AKKUSANTUY/HackID
 
 $ cd HackID
 
-$ python2 Targets.py
+$ python2 HackID.py
 
 ┌∩┐⎝◣⏝◢⎠┌∩┐︻╦̵̵͇̿̿̿̿╤────►
